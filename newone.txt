@@ -1,2 +1,3 @@
 hello i am new one
 this is feature branch
+hi this cloned one 
